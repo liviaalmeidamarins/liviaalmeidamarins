@@ -26,15 +26,6 @@
   <img align="center" alt="Lívia-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-### Softwares
-
-<html>
-    <a href="https://github.com/liviaalmeidamarins+topic%3Avscode"><img src="img/vs-code.png" alt="Visual Studio Code" height="40"/></a>
-    <a href="https://github.com/liviaalmeidamarins"><img src="img/visual-studio.png" alt="Visual Studio" height="40"/></a>
-    <a href="https://github.com/liviaalmeidamarins+topic%3Ageany"><img src="img/geany.png" alt="Geany" height="40"/></a>
-    <a href=https://github.com/liviaalmeidamarins+topic%3Anetbeans"><img src="img/netbeans.png" alt="Dev-C++" height="40"/></a>
-</html>
-
 ### Studying in this moment:
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
