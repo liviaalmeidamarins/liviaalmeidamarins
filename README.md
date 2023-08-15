@@ -29,11 +29,10 @@
 ### Softwares
 
 <html>
-    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Avscode"><img src="img/vs-code.png" alt="Visual Studio Code" height="40"/></a>
-    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Avisual-studio"><img src="img/visual-studio.png" alt="Visual Studio" height="40"/></a>
-    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Ageany"><img src="img/geany.png" alt="Geany" height="40"/></a>
-    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Adev-cpp"><img src="img/dev-cpp.png" alt="Dev-C++" height="40"/></a>
-    <a href="https://github.com/search?q=user%3ALucasFelipeNunes+topic%3Anetbeans"><img src="img/netbeans.png" alt="Dev-C++" height="40"/></a>
+    <a href="https://github.com/liviaalmeidamarins+topic%3Avscode"><img src="img/vs-code.png" alt="Visual Studio Code" height="40"/></a>
+    <a href="https://github.com/liviaalmeidamarins"><img src="img/visual-studio.png" alt="Visual Studio" height="40"/></a>
+    <a href="https://github.com/liviaalmeidamarins+topic%3Ageany"><img src="img/geany.png" alt="Geany" height="40"/></a>
+    <a href=https://github.com/liviaalmeidamarins+topic%3Anetbeans"><img src="img/netbeans.png" alt="Dev-C++" height="40"/></a>
 </html>
 
 ### Studying in this moment:
